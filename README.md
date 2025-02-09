@@ -21,17 +21,19 @@ To get started with the project, clone the repository and install the dependenci
 ```bash
 git clone https://github.com/yourusername/trading-app.git
 cd trading-app
-npm install
+npm install ```
 
 
 Usage Instructions
 To run the app in development mode, use the following command:
-npm run dev
+```bash
+npm run dev ```
 
 The app will be available at http://localhost:3000.
 
 To build the app for production, use the following command:
-npm run build
+```bash
+npm run build ```
 
 Documentation
 You can start editing the page by modifying app/page.tsx. The page auto-updates as you edit the file.
@@ -44,6 +46,6 @@ To learn more about Next.js, take a look at the following resources:
 Next.js Documentation - learn about Next.js features and API.
 Learn Next.js - an interactive Next.js tutorial.
 Support Information
-For support, please open an issue on the GitHub repository. ```
+For support, please open an issue on the GitHub repository. 
 
 Similar code found with 1 license type - View matches
