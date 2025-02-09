@@ -21,20 +21,20 @@ To get started with the project, clone the repository and install the dependenci
 ```bash
 git clone https://github.com/yourusername/trading-app.git
 cd trading-app
-npm install ```
-
+npm install 
+```
 
 Usage Instructions
 To run the app in development mode, use the following command:
 ```bash
-npm run dev ```
-
+npm run dev 
+```
 The app will be available at http://localhost:3000.
 
 To build the app for production, use the following command:
 ```bash
-npm run build ```
-
+npm run build 
+```
 Documentation
 You can start editing the page by modifying app/page.tsx. The page auto-updates as you edit the file.
 
