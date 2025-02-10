@@ -39,13 +39,3 @@ Documentation
 You can start editing the page by modifying app/page.tsx. The page auto-updates as you edit the file.
 
 
-This project uses next/font to automatically optimize and load Geist, a new font family for Vercel.
-
-To learn more about Next.js, take a look at the following resources:
-
-Next.js Documentation - learn about Next.js features and API.
-Learn Next.js - an interactive Next.js tutorial.
-Support Information
-For support, please open an issue on the GitHub repository. 
-
-Similar code found with 1 license type - View matches
