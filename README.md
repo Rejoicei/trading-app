@@ -19,7 +19,7 @@ A real-time trading application built with Next.js and TypeScript. The app allow
 To get started with the project, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/yourusername/trading-app.git
+git clone https://github.com/Rejoicei/trading-app.git
 cd trading-app
 npm install 
 ```
